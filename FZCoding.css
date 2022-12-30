@@ -1,0 +1,34 @@
+/*BEGIN PS4 White Controller Styling*/
+.controller.ds4.white {
+    background-image: url(FZbase.png);
+}
+
+.ds4.white.disconnected {
+    background: url(FZdisconnected.png);
+}
+
+.ds4.white .trigger {
+    background-image: url(FZtriggers.png);
+}
+
+.ds4.white .bumper {
+    background-image: url(FZbumper.png);
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(FZstart.png);
+}
+
+.ds4.white .button {
+    background-image: url(Fzface.png);
+}
+
+.ds4.white .stick {
+    background-image: url(FZsticks.png);
+}
+
+.ds4.white .face {
+    background-image: url(FZdpad.png);
+}
+
+/*END PS4 White Controller Styling*/
